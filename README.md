@@ -7,4 +7,4 @@
 - 💬 Ask me about anything I love to tutor and help!
 - 📫 How to reach me: david01rohweder@gmail.com
 
-# [View my resume](https://github.com/davidrohweder/davidrohweder.github.io/blob/master/resume/David%20Rohweder%20Resume.pdf)
+### [View my resume](https://github.com/davidrohweder/davidrohweder.github.io/blob/master/resume/David%20Rohweder%20Resume.pdf)
