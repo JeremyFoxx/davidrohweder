@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is David and I love all things programming
 ## I am very ambitous and looking for challenges
 
-- 🔭 I’m currently working on an Augmented Reality Solar System iOS app
+- 🔭 I just put the first version of my Augmented Reality Solar System application on the App Store!
 - 🌱 I’m improving my DSA skills
 - 👯 I’m looking to collaborate on a multi language DSA library
 - 💬 Ask me about anything I love to tutor and help!
