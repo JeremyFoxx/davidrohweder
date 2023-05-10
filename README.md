@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/Tailwind-blue" /> 
         <img src="https://img.shields.io/badge/Next-blue" /> 
         <img src="https://img.shields.io/badge/Nuxt-blue" /> 
-        <img src="https://img.shields.io/badge/Shopify-blue" /> 
+        <img src="https://img.shields.io/badge/Swift-blue" /> 
         <img src="https://img.shields.io/badge/Chart.js-blue" />
       </td>      
       <td valign="center" align="center" width="300px">
