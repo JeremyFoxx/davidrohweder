@@ -2,7 +2,7 @@
   Hi, Nice to meet you.
 </h1>
 <h3 align="center">
-  Professional Software Engineer and passionate programmer even off the clock.
+  My name is David, and my passion for software extends well beyond my working hours.
 </h3>
 
 <div align="center">
